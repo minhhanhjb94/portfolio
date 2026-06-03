@@ -1,0 +1,17 @@
+{
+  "name": "minh-hanh-portfolio",
+  "version": "1.0.0",
+  "description": "A cinematic, warm Gryffindor-themed academic portfolio website.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "portfolio",
+    "gryffindor",
+    "academic",
+    "static-server"
+  ],
+  "author": "Nguyen Thi Minh Hanh",
+  "license": "ISC"
+}
